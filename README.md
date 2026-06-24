@@ -3,6 +3,6 @@
 
 **Integrantes:**
 * [Mayol Federico] - Legajo: [55764]
-* [] - Legajo: []
-* [] - Legajo: []
-* [] - Legajo: []
+* [Machin Santino] - Legajo: []
+* [Mamani Flores Carlos] - Legajo: []
+* [Cusi Lucas Emanuel] - Legajo: []
